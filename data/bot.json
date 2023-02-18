@@ -1,0 +1,5 @@
+{
+    "Token" : "5806051021:AAETco0xTYSp9xNvgFuK3jhgD_C2TvB2lYw",
+    "Chat ID" : "User input",
+    "Link" : "https://api.telegram.org/bot<token>/sendMessage?chat_id=<group chat id>&text=<text message>"
+}
