@@ -1,5 +1,4 @@
 # Bullybot
-The README describes the project you have built.
 Bullybot is a chatbot that sends messages to the user based on events that occur. It uses a csv file with event triggers and the response messages to those events to know when to send the message and what the message will be.
 
 The code has two examples of csv files:
